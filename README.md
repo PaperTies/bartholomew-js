@@ -1,4 +1,4 @@
-# Bart JS
+# Bartholomew JS
 
 Library with basic Bart functionalities.
 
@@ -7,13 +7,13 @@ Library with basic Bart functionalities.
 With npm:
 
 ```
-npm install bart-js
+npm install bartholomew-js
 ```
 
 With yarn:
 
 ```
-yarn add bart-js
+yarn add bartholomew-js
 ```
 
 ## API
@@ -31,7 +31,7 @@ You can pass any value and returns it multiply by 0!!
 #### Callback Example
 
 ```js
-const Bart = require('bart-js');
+const Bart = require('bartholomew-js');
 
 Bart.eatMyShorts(1231778278917387213, (err, val) => {
   if (err) {
@@ -45,7 +45,7 @@ Bart.eatMyShorts(1231778278917387213, (err, val) => {
 #### Promise Example
 
 ```js
-const Bart = require('bart-js');
+const Bart = require('bartholomew-js');
 
 Bart.eatMyShorts(1231778278917387213)
   .then(value => console.log(value) // 0)

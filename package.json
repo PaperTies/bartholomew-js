@@ -1,5 +1,5 @@
 {
-  "name": "bart-js",
+  "name": "bartholomew-js",
   "version": "1.0.0",
   "description": "Library with basic Bart Simpson functionalities",
   "main": "src/index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PaperTies/bart-js.git"
+    "url": "git+https://github.com/PaperTies/bartholomew-js.git"
   },
   "files": [
     "src"
   ],
   "keywords": [
     "bart",
-    "Bart",
+    "Bartholomew",
     "Simpson",
     "Javascript",
     "zero",
@@ -24,9 +24,9 @@
   "author": "PaperTies",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PaperTies/bart-js/issues"
+    "url": "https://github.com/PaperTies/bartholomew-js/issues"
   },
-  "homepage": "https://github.com/PaperTies/bart-js#readme",
+  "homepage": "https://github.com/PaperTies/bartholomew-js#readme",
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-airbnb": "^16.1.0",
