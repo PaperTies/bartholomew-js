@@ -1,5 +1,5 @@
 {
-  "name": "bart",
+  "name": "bart-js",
   "version": "1.0.0",
   "description": "Library with basic Bart Simpson functionalities",
   "main": "src/index.js",
